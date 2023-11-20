@@ -1,6 +1,11 @@
-<|DOCTYPE html>
-<html lang= "pt-br">
-</head>
+body {
+    bacground: #CCCCCC
+}
 
-<body>
- <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+p {
+    text-aling: center;
+}
+
+em strong {
+         color: red;
+}
